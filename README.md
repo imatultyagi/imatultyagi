@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Atul Kumar</h1> 
 
-<!--
-**imatultyagi/imatultyagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="(https://octodex.github.com/dojocat/"></p>
 
-Here are some ideas to get you started:
+## :wave: About Me 
+<a href="https://twitter.com/O_Anu_O" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/imatultyagi" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+
+- 👩‍🎓 Hey! I'm Atul Tyagi, a Senior at Meerut Institute of Engineering and Technology, pursuing my master's in computer applications, My preferred pronouns are **he/him**.
+- :octocat: I am a developer working with Java . Along with this I'm also highly interested in software development and have built quite a few projects on it related to login forms.
+- 🔭 I’m currently working on improving my Python and DSA skills, and exploring ideas for impactful  projects.
+- 👩‍💻 I am always open to collaborating on projects and innovative ideas.
+- ⚡ Reach out to me at **atultyagig85@gmail.com**
+  
+
+<br/> 
+
+## 🔧 Technologies & Tools
+#### **Languages**
+<img height=25 src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
+
+#### **Databases**
+
+#### **DevOps & Cloud Tools**
+<img height=25 src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
+
+## 📈Github Stats
+![](https://github-readme-stats.vercel.app/api?username=iamatultyagi&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=iamatultyagi&theme=algolia&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamatultyagi&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iamatultyagi&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
