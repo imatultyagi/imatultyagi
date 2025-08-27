@@ -26,6 +26,7 @@
 <img height=25 src="https://img.shields.io/badge/javaScript-%23ED8B00.svg?style=for-the-javascript&logo=openjdk&logoColor=white">&nbsp;&nbsp;
 
 #### **Databases**
+<img height=25 src="https://img.shields.io/badge/-mysql?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
 
 #### **DevOps & Cloud Tools**
 <img height=25 src="https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
