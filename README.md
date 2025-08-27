@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Atul Kumar</h1> 
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif"></p>
+<p align="center"> <img src="https://octodex.github.com/images/droidtocat.png"></p>
 
 ## :wave: About Me 
 <a href="https://twitter.com/O_Anu_O" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
@@ -18,12 +18,12 @@
 
 ## 🔧 Technologies & Tools
 #### **Languages**
-<img height=25 src="https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/Java-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/Java-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/html-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/css-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/javaScript-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/html-%23ED8B00.svg?style=for-the-badge&logo=htmlk&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/css-%23ED8B00.svg?style=for-the-badge&logo=css&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/javaScript-%23ED8B00.svg?style=for-the-javascript&logo=openjdk&logoColor=white">&nbsp;&nbsp;
 
 #### **Databases**
 
