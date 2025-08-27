@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Atul Kumar</h1> 
+<h1 align="center">Hey, I'm Atul Tyagi</h1> 
 
 <p align="center"> <img src="https://octodex.github.com/images/droidtocat.png" height="400"></p>
 
