@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/imatultyagi" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 - 👩‍🎓 Hey! I'm Atul Tyagi, a Senior at Meerut Institute of Engineering and Technology, pursuing my master's in computer applications, My preferred pronouns are **he/him**.
-- :octocat: I am a developer working with Python . Along with this I'm also highly interested in software development .
+- :octocat: I am a developer working with Java . Along with this I'm also highly interested in software development .
 - 🔭 I’m currently working on improving my DSA skills, and exploring ideas for impactful  projects.
 - 👩‍💻 I am always open to collaborating on projects and innovative ideas.
 - ⚡ Reach out to me at **atultyagig85@gmail.com**
