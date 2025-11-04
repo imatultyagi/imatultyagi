@@ -18,7 +18,7 @@
 
 ## 🔧 Technologies & Tools
 #### **Languages**
-<img height=25 src="https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23ED8B00.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/css3-%23ED8B00.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
