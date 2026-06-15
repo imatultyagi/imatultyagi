@@ -52,9 +52,9 @@
 
 
 ## 📈Github Stats
-![](https://github-readme-stats.vercel.app/api?username=iamatultyagi&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=iamatultyagi&theme=algolia&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamatultyagi&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=imatultyagi&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=imatultyagi&theme=algolia&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imatultyagi&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamatultyagi&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
